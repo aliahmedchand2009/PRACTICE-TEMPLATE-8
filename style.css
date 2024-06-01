@@ -1,0 +1,111 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color: white;
+}
+.ff{
+    margin: 60px;
+    background-color: rgb(9, 136, 115);
+    text-align: center;
+    
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.in{
+    background-color: white;
+    height: 500px;
+    width: 1000px;
+    margin-left: 200px;
+    
+}
+.nav{
+    display: flex;
+    padding-top: 20px;
+    
+}
+.name{
+          flex-basis: 70%;
+          text-align: start;
+          padding: 5px;
+          margin-left: 50px;
+          
+          
+}
+
+.end{
+    display: flex;
+    margin-right: 20px;
+}
+
+.end h3{
+    padding: 5px;
+    margin-left: 20px;
+    font-weight: 100;
+}
+
+a{
+    color: rgb(9, 136, 115);
+    text-decoration: none;
+    font-size: 20px;
+    
+}
+
+.sec2{
+    display: flex;
+}
+.sec2 .one,.too{
+ width: 50%;
+
+}
+.sec2{
+    text-align: start;
+    font-weight: 100;
+    font-size: 28px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+ .in1{
+    margin-top: 10px;
+           display: flex;
+           font-weight: 100;
+           font-size: 32px;
+}
+
+#tt{
+    color: rgb(9, 136, 115);
+}
+#ss{
+    margin-left: 10px;
+    
+    
+}
+
+.end1{
+    margin-top: 20px;
+    line-height: 1.5;
+       font-size: 17px;
+}
+
+button{
+    border-radius: 5px;
+    background-color: rgb(9, 136, 115);
+    padding: 16px;
+    letter-spacing: 2px;
+    font-size: 15px;
+    color: white;
+    margin-top: 50px;
+}
+
+.last{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 400px;
+
+}
+#u1{
+    font-size: 20px;
+}
